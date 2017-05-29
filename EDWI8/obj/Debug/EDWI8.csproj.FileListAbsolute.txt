@@ -1,0 +1,9 @@
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\bin\Debug\EDWI8.exe.config
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\bin\Debug\EDWI8.exe
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\bin\Debug\EDWI8.pdb
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\obj\Debug\EDWI8.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\obj\Debug\EDWI8.Form1.resources
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\obj\Debug\EDWI8.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\obj\Debug\EDWI8.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\obj\Debug\EDWI8.exe
+c:\users\админ\documents\visual studio 2015\Projects\EDWI8\EDWI8\obj\Debug\EDWI8.pdb
